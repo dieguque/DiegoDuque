@@ -1,4 +1,3 @@
 test-repo
 ==========
-
-Git learner. Made in Táchira.
+This is a test repo.
